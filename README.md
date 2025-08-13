@@ -66,7 +66,7 @@ ninja -C build
 
 <img width="605" height="856" alt="image" src="https://github.com/user-attachments/assets/e4ec0567-23c3-42bd-983a-8b6b46e34eb1" />
 
-![Uploading image.png…]()
+<img width="944" height="823" alt="image" src="https://github.com/user-attachments/assets/57faea1a-3b01-42dd-b020-e115e7a68b15" />
 
 
 
