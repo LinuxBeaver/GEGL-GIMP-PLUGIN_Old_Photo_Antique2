@@ -5,7 +5,10 @@ High quality old photo effect inspired by a old 2022 plugin
 https://github.com/LinuxBeaver/GEGL-GIMP-PLUGIN_Old_Photo_Antique/
 
 
-![alt-text-1](https://github.com/user-attachments/assets/020192d3-ea7e-4b79-b670-f3dcbe779c69 "title-1") ![alt-text-2](https://github.com/user-attachments/assets/3afb8bdb-eec6-4b2c-92c7-0733dc13bcdc "title-2")
+<img width="1042" height="830" alt="image" src="https://github.com/user-attachments/assets/020192d3-ea7e-4b79-b670-f3dcbe779c69" />
+
+<img width="942" height="846" alt="image" src="https://github.com/user-attachments/assets/9c4c96f8-7c86-4fe2-b062-b22d940069a8" />
+
 
 
 ## Directory to put Binaries (They do NOT go in the normal plugins folder)
