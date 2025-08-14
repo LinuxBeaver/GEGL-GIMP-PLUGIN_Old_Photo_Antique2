@@ -1,6 +1,6 @@
 ## Antique 2 - Simulate an old photo from the past with GEGL
 
-Make your image look like its from dated from the 1930s. Makea ll sorts of old time photo effects in GIMP
+Make your image look like its from dated from the 1930s. Make all sorts of old time photo effects in GIMP
 
 Download here
 https://github.com/LinuxBeaver/GEGL-GIMP-PLUGIN_Old_Photo_Antique2/
