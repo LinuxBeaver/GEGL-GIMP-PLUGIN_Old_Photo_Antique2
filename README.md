@@ -1,14 +1,13 @@
 ## Antique 2 - Simulate an old photo from the past with GEGL
 
-High quality old photo effect inspired by a old 2022 plugin 
+Make your image look like its from dated from the 1930s. Makea ll sorts of old time photo effects in GIMP
 
-https://github.com/LinuxBeaver/GEGL-GIMP-PLUGIN_Old_Photo_Antique/
-
+Download here
+https://github.com/LinuxBeaver/GEGL-GIMP-PLUGIN_Old_Photo_Antique2/
 
 <img width="1042" height="830" alt="image" src="https://github.com/user-attachments/assets/020192d3-ea7e-4b79-b670-f3dcbe779c69" />
 
 <img width="942" height="846" alt="image" src="https://github.com/user-attachments/assets/9c4c96f8-7c86-4fe2-b062-b22d940069a8" />
-
 
 
 ## Directory to put Binaries (They do NOT go in the normal plugins folder)
@@ -66,6 +65,12 @@ ninja -C build
 
 <img width="605" height="856" alt="image" src="https://github.com/user-attachments/assets/e4ec0567-23c3-42bd-983a-8b6b46e34eb1" />
 
+
+## Sister plugin
+
+This plugin was inspired by a old 2022 plugin and therefore this below is its sister plugin which is much simpler
+
+https://github.com/LinuxBeaver/GEGL-GIMP-PLUGIN_Old_Photo_Antique/
 <img width="944" height="823" alt="image" src="https://github.com/user-attachments/assets/57faea1a-3b01-42dd-b020-e115e7a68b15" />
 
 
