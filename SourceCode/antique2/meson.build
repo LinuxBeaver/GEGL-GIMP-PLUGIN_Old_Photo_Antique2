@@ -6,9 +6,9 @@ project('old2', 'c',
 # not the executables that use the library.
 lib_args = ['-DBUILDING_CA']
 
-gegl = dependency('gegl-0.3', required : false)
+gegl = dependency('gegl-0.4', required : false)
 if not gegl.found()
-    gegl = dependency('gegl-0.4')
+    gegl = dependency('gegl-0.5')
 endif
 shlib = shared_library('old2', 'old2.c', 'config.h',
   c_args : lib_args,
