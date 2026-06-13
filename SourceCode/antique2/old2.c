@@ -87,7 +87,7 @@ property_double (noise, _("Noise"), 0.2)
     value_range (0.0, 0.35)
 
 property_double (gaus, _("Blur"), 1.0)
-   description (_("Mild gaussian blur to mimic a dated photo's lower quality"))
+   description (_("Mild gaussian blur to mimic a dated photoꞌs lower quality"))
    value_range (0.0, 2.5)
    ui_range    (0.0, 2.5)
    ui_steps      (0.5, 1.0)
@@ -125,7 +125,7 @@ property_double (perlin_n, _("Perlin noise presence"), 0.6)
    ui_steps      (0.5, 1.0)
 
 property_seed    (seed, _("Random seed"), rand)
-    description(_("Seed randomization of four noises as well as the border's spread seed"))
+    description(_("Seed randomization of four noises as well as the borderꞌs spread seed"))
 
 property_double (solid_noise_scale, _("Solid noise scale"), 2.0)
    description (_("Scale of the solid noise, lower numbers make it larger"))
